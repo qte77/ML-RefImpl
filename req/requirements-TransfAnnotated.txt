@@ -1,0 +1,5 @@
+torchdata==0.3.0
+torchtext==0.12
+spacy==3.2
+altair
+GPUtil
